@@ -68,10 +68,5 @@ Watch [Translated Video](https://curiocic.netlify.app/play/r0G86-0-4O4)
 - We were working on that button at the time of mid MVP submission. Now all the buttons are working and explained in the demo.
 - We are not checking at the time of recording that whether the video was previously recorded or not. We will be manually selecting the audio to save with the video.
 
-# Future work after the hackathon
-
-- We will save multiple audios for a single video and give option to the user to decide which audio he/she wants to play.
-- For re recording we will generate a mail using `Twilio API` which will be directed towards us. Then we will decide maually whether to re-record that audio or not.
-
 
 
